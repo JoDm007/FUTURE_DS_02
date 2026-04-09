@@ -40,6 +40,8 @@ __all__ = [
     "ensure_directory_exists",
 
     # Fonctions d'analyse de churn
-    #"calculate_retention_rate_by_tenure",
-    #"calculate_ltv",
+    "calculate_retention_rate_by_tenure",
+    "calculate_ltv",
+    "get_cohort_retention",
+    "get_ltv_by_segment",
 ]
