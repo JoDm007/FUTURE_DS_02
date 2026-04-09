@@ -1,0 +1,68 @@
+2026-04-09 01:16:59,215 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 01:24:48,869 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 01:25:26,920 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 01:52:54,938 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 01:54:33,965 - INFO - |==> Nettoyage des valeurs manquantes...
+2026-04-09 01:54:33,973 - INFO - |==> Nettoyage de TotalCharges...
+2026-04-09 01:54:33,982 - INFO - |==> Conversion du Churn en binaire...
+2026-04-09 01:54:33,984 - INFO - |==> Ajout des colonnes dérivées...
+2026-04-09 01:55:53,905 - INFO - Data saved in e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 03:54:20,435 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 03:54:20,605 - INFO - |==> Nettoyage des valeurs manquantes...
+2026-04-09 03:54:20,611 - INFO - |==> Nettoyage de TotalCharges...
+2026-04-09 03:54:20,619 - INFO - |==> Conversion du Churn en binaire...
+2026-04-09 03:54:20,620 - INFO - |==> Ajout des colonnes dérivées...
+2026-04-09 03:54:20,686 - INFO - Data saved in e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:07:29,220 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 04:07:44,435 - INFO - |==> Nettoyage des valeurs manquantes...
+2026-04-09 04:07:44,438 - INFO - |==> Nettoyage de TotalCharges...
+2026-04-09 04:07:44,447 - INFO - |==> Conversion du Churn en binaire...
+2026-04-09 04:07:44,449 - INFO - |==> Ajout des colonnes dérivées...
+2026-04-09 04:08:09,614 - INFO - Data saved in e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:08:14,338 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:08:14,353 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:09:29,105 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:09:29,113 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:09:52,897 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:09:52,905 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:11:32,102 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:11:32,111 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:11:33,213 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:11:33,222 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:12:46,016 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:12:46,028 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:14:39,373 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 04:15:15,318 - INFO - |==> Nettoyage des valeurs manquantes...
+2026-04-09 04:15:15,322 - INFO - |==> Nettoyage de TotalCharges...
+2026-04-09 04:15:15,327 - INFO - |==> Conversion du Churn en binaire...
+2026-04-09 04:15:15,329 - INFO - |==> Ajout des colonnes dérivées...
+2026-04-09 04:15:21,092 - INFO - Data saved in e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:15:28,586 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:15:28,593 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:16:14,340 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:16:14,346 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:16:21,894 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:16:21,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:55:26,125 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:56:39,863 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:56:48,255 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:56:58,832 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:57:46,476 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:57:46,484 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:58:32,888 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 04:58:39,087 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 04:58:39,092 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:07:33,696 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 05:07:37,595 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:07:37,603 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:11:36,998 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\processed\churn_cleaned.csv
+2026-04-09 05:11:41,961 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:11:41,970 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:17:11,336 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 05:17:29,298 - INFO - |==> Chargement des données depuis e:\Certifs\Future_Interns\FUTURE_DS_02\data\raw\WA_Fn_Use_C_Telco_Customer_Churn.csv
+2026-04-09 05:17:39,920 - INFO - |==> Nettoyage des valeurs manquantes...
+2026-04-09 05:17:39,945 - INFO - |==> Nettoyage de TotalCharges...
+2026-04-09 05:17:39,973 - INFO - |==> Conversion du Churn en binaire...
+2026-04-09 05:17:39,979 - INFO - |==> Ajout des colonnes dérivées...
+2026-04-09 05:18:43,104 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-09 05:18:43,112 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

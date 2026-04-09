@@ -38,4 +38,8 @@ __all__ = [
     # Utilitaires
     "setup_logger",
     "ensure_directory_exists",
+
+    # Fonctions d'analyse de churn
+    #"calculate_retention_rate_by_tenure",
+    #"calculate_ltv",
 ]

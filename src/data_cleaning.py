@@ -1,3 +1,5 @@
+#Autor: Joseph DATE-MASSE
+
 import pandas as pd
 import numpy as np
 import logging
@@ -23,11 +25,11 @@ def convert_churn_to_binary(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def add_derived_columns(df: pd.DataFrame) -> pd.DataFrame:
-    """Ajoute des colonnes dérivées (ex: tenure_group)."""
+    """Ajoute des colonnes dérivées (tenure_group)."""
     logger.info("|==> Ajout des colonnes dérivées...")
     df['tenure_group'] = pd.cut(
         df['tenure'],
-        bins=[-1, 12, 24, 48, 72, np.inf],
-        labels=['0-12 mois', '12-24 mois', '24-48 mois', '48-72 mois', '72+ mois']
+        bins=[-1, 6, 12, 24, 36, 48, 60, 72],
+        labels=['0-6 mois', '6-12 mois', '1-2 ans', '2-3 ans', '3-4 ans', '4-5 ans', '5-6 ans']
     )
     return df

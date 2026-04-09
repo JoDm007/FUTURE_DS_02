@@ -1,3 +1,5 @@
+#Autor: Joseph DATE-MASSE
+
 from pathlib import Path
 import logging
 
