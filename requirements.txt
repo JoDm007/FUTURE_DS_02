@@ -1,4 +1,3 @@
-
 # Core Data Science
 pandas==2.1.4
 numpy==1.26.3
@@ -34,7 +33,7 @@ pytest==7.4.4            # Tests unitaires
 black==23.12.1           # Formatage de code
 flake8==7.0.0            # Linting
 
-# Optional: Dashboard & Deployment
-# streamlit==1.29.0      # Alternative web app
-# dash==2.14.2           # Dashboard Plotly
-# sqlalchemy==2.0.23     # Connexion BDD
+# Dashboard & Deployment
+streamlit==1.29.0      # Alternative web app
+dash==2.14.2           # Dashboard Plotly
+sqlalchemy==2.0.23     # Connexion BDD
