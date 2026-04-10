@@ -1,7 +1,6 @@
 # Environnements virtuels
 .venv/
 F_DS_02_env/
-env/
 
 # Données
 data/
@@ -25,4 +24,5 @@ output/
 
 # Tests
 scripts/
+
 test.py
