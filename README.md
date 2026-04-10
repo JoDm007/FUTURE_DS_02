@@ -21,6 +21,7 @@ FUTURE_DS_02/
 │
 ├── reports/                     # Final reports and logs
 │   ├── logs/
+│   ├── churn_analysis_report.md
 │   └── images/                  # Generated charts and graphs
 │
 ├── tableau/                     # dashboards
