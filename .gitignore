@@ -2,7 +2,13 @@
 F_DS_02_env/
 data/
 
+#Video_demo
+video/Dashboard_Tableau.mp4
+
 # Outputs temporaires
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+
+#test
+test.py
