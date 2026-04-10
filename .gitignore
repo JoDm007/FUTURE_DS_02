@@ -1,14 +1,28 @@
+# Environnements virtuels
 .venv/
 F_DS_02_env/
+env/
+
+# Données
 data/
 
-#Video_demo
-video/Dashboard_Tableau.mp4
-
-# Outputs temporaires
+# Fichiers temporaires Python
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
 
-#test
+# Fichiers IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Video
+video/Dashboard_Tableau.mp4
+
+# Logs/Outputs
+*.log
+output/
+
+# Tests
+scripts/
 test.py
