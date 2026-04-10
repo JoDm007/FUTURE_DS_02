@@ -23,7 +23,7 @@ FUTURE_DS_02/
 │   ├── logs/
 │   └── images/                  # Generated charts and graphs
 │
-├── tableau/                     # Power BI / Tableau dashboards
+├── tableau/                     # dashboards
 │
 ├── src/                         # Reusable Python scripts
 │   ├── data_loading.py
@@ -49,7 +49,13 @@ FUTURE_DS_02/
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the notebooks in order: 01 → 02 → 03
-3. View final visualizations and data exports prepared for your Power BI dashboard.
+3. View final visualizations and data exports prepared for your **Tableau Public** dashboard.
+
+## Dashboard Tableau
+
+An interactive dashboard was built to analyze customer attrition from several angles (Contract, Seniority, Services). 
+You can find the final dashboard image in the project, or view it online:   
+- **Tableau Public Link :** https://public.tableau.com/app/profile/joseph.date.masse/viz/Book1_17758196420940/Dashboard1?publish=yes
 
 ## 👤 Auteur
 Joseph DATE-MASSE - Intern Data Science & Analytics @ Future Interns
